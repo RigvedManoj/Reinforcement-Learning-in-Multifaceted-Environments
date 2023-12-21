@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Evolution_Strategy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Policy_Evaluation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Prioritized_Sweeping_and_MCTS" vcs="Git" />
+  </component>
+</project>
